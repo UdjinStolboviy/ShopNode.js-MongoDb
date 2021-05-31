@@ -1,0 +1,91 @@
+https://afternoon-badlands-95132.herokuapp.com/courses
+
+Шаблонизаторы npm
+PUG
+EJS
+HandleBars
+
+Библиотеки для сервера npm
+express
+nest
+
+Работа с формами  npm
+body-parser
+
+
+работа с email npm
+
+nodemailer
+
+nodemailer-sendgrid-transport
+
+sendgrid.com
+
+Работа  с валидациеей даниих на сервере
+
+express-validator
+
+
+Работа  с файлами npm
+
+multer 
+
+Работа с базами даных nmp
+mongoose
+
+
+Работа  с сесией при авторизации npm
+exopress-swssion
+
+сохранения  сесии  в базу даных npm
+connect-mongodb-session
+
+Пакет для шибрования даних npm
+
+bcryptjs
+
+Защита приложения  генерация ключей уникальные  для даного клиента
+
+csurf
+
+Пакет для транспортировки определенних ошибок
+
+connect-flash
+
+Работа  с хедерами запросов и защита
+
+helmet
+
+Работа  с компресией  файлов 
+compression
+
+
+
+
+
+
+npm init
+
+npm install nodemon -D
+
+node index 
+
+clear
+
+cd .. 
+
+cd name_folder/
+
+npm run  start
+npm run  dev
+
+
+
+node console.js 
+
+node console.js  test
+nodejs-shop
+J4DW9ClhN0kVwwno
+mongodb+srv://nodejs-shop:J4DW9ClhN0kVwwno@cluster0.dgd0e.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+mongodb+srv://nodejs-shop:3yDs8HRuERKZLRr@cluster0.dgd0e.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
